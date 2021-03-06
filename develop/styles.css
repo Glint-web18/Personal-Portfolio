@@ -52,9 +52,17 @@ body{
      width: 100%;
      text-align: center;
  }
- 
- .about-text{
-    margin-top: 50px;
-    margin-bottom: 25px;
-    margin-left: 3%;
+ .text-center{
+    font-size: 45px;
+    font-weight: 700;
+    margin: 0 0 6px;
+ }
+
+ .about-text h3{
+    font-size: 45px;
+    font-weight: 700;
+    margin: 0 0 6px;
+}
+.gray-bg{
+    background-color:#f5f5f54b ;
 }
