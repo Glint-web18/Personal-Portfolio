@@ -1,2 +1,2 @@
 # Personal-Portfolio
-Day 1
+Simple portfolio landing page with contact form design (not functional)
